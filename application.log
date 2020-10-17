@@ -1,0 +1,167 @@
+2020-10-16 20:20:23,032 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:23,034 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:23,035 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:23,035 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:25,982  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:59 - starting title method ---------------> verify login page
+2020-10-16 20:20:25,991  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:63 - ending title method ---------------> verify login page
+2020-10-16 20:20:25,992  WARN [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:64 - some warning
+2020-10-16 20:20:25,992 ERROR [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:65 - some error
+2020-10-16 20:20:25,992 FATAL [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:66 - fatal error
+2020-10-16 20:20:28,919  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:73 - starting Forget pass ---------------> login page
+2020-10-16 20:20:29,027  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:75 - ending forget pass ---------------> login page
+2020-10-16 20:20:29,028  WARN [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:76 - some warning
+2020-10-16 20:20:29,028 ERROR [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:77 - some error
+2020-10-16 20:20:29,028 FATAL [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:78 - fatal error
+2020-10-16 20:20:29,123  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:59 - starting title method ---------------> verify login page
+2020-10-16 20:20:29,127  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:63 - ending title method ---------------> verify login page
+2020-10-16 20:20:29,127  WARN [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:64 - some warning
+2020-10-16 20:20:29,128 ERROR [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:65 - some error
+2020-10-16 20:20:29,128 FATAL [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:66 - fatal error
+2020-10-16 20:20:31,459  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:85 - starting login test ---------------> login page
+2020-10-16 20:20:32,850  INFO [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:90 - ending login test ---------------> verify login page
+2020-10-16 20:20:32,851  WARN [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:91 - some warning
+2020-10-16 20:20:32,851 ERROR [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:92 - some error
+2020-10-16 20:20:32,852 FATAL [TestNG-test=Orange HRM Regression Tests -- chrome-2] LoginPageTest:93 - fatal error
+2020-10-16 20:20:35,659  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:73 - starting Forget pass ---------------> login page
+2020-10-16 20:20:35,721  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:75 - ending forget pass ---------------> login page
+2020-10-16 20:20:35,721  WARN [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:76 - some warning
+2020-10-16 20:20:35,721 ERROR [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:77 - some error
+2020-10-16 20:20:35,721 FATAL [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:78 - fatal error
+2020-10-16 20:20:36,024 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,024 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,024 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,024 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,025 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,025 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,032 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,033 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,034 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,035 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,036 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,036 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:36,037 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:36,037 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:39,804 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:39,806 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-10-16 20:20:39,809 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-10-16 20:20:39,809 DEBUG [TestNG-tests-2] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-10-16 20:20:40,117 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:40,118 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:40,118 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:40,118 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:40,119 DEBUG [Finalizer] PoolingHttpClientConnectionManager:408 - Connection manager is shutting down
+2020-10-16 20:20:40,119 DEBUG [Finalizer] PoolingHttpClientConnectionManager:414 - Connection manager shut down
+2020-10-16 20:20:40,202 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,202 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-10-16 20:20:40,203 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-10-16 20:20:40,203 DEBUG [TestNG-tests-2] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-10-16 20:20:40,208 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,208 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-10-16 20:20:40,208 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-10-16 20:20:40,209 DEBUG [TestNG-tests-2] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-10-16 20:20:40,217 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,217 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-10-16 20:20:40,218 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-10-16 20:20:40,218 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-10-16 20:20:40,233 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,234 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-10-16 20:20:40,235 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-10-16 20:20:40,235 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-10-16 20:20:40,251 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,251 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-10-16 20:20:40,252 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-10-16 20:20:40,252 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-10-16 20:20:40,281 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,283 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,286 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,289 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,291 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,292 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,293 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,296 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,298 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,299 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,300 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,302 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:40,303 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,304 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-10-16 20:20:40,305 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-10-16 20:20:40,305 DEBUG [TestNG-tests-2] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-10-16 20:20:40,316 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,316 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-10-16 20:20:40,316 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-10-16 20:20:40,317 DEBUG [TestNG-tests-2] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-10-16 20:20:40,320 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,321 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-10-16 20:20:40,325 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-10-16 20:20:40,325 DEBUG [TestNG-tests-2] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-10-16 20:20:40,329 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,329 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-10-16 20:20:40,329 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-10-16 20:20:40,333 DEBUG [TestNG-tests-2] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-10-16 20:20:40,362 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:40,363 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-10-16 20:20:40,368 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-10-16 20:20:40,368 DEBUG [TestNG-tests-2] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2020-10-16 20:20:40,945  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:85 - starting login test ---------------> login page
+2020-10-16 20:20:42,062  INFO [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:90 - ending login test ---------------> verify login page
+2020-10-16 20:20:42,062  WARN [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:91 - some warning
+2020-10-16 20:20:42,062 ERROR [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:92 - some error
+2020-10-16 20:20:42,062 FATAL [TestNG-test=Orange HRM Regression Tests -- firefox-2] LoginPageTest:93 - fatal error
+2020-10-16 20:20:42,619 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,620 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-10-16 20:20:42,620 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-10-16 20:20:42,620 DEBUG [TestNG-tests-1] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-10-16 20:20:42,627 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,627 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-10-16 20:20:42,627 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-10-16 20:20:42,628 DEBUG [TestNG-tests-1] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-10-16 20:20:42,629 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,629 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-10-16 20:20:42,629 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-10-16 20:20:42,629 DEBUG [TestNG-tests-1] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-10-16 20:20:42,632 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,632 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-10-16 20:20:42,633 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-10-16 20:20:42,633 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-10-16 20:20:42,638 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,638 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-10-16 20:20:42,638 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-10-16 20:20:42,639 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-10-16 20:20:42,644 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,644 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-10-16 20:20:42,645 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-10-16 20:20:42,645 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-10-16 20:20:42,650 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,650 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,652 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,654 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,655 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,656 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,656 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,657 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,658 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,658 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,659 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,659 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,660 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2020-10-16 20:20:42,661 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,661 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-10-16 20:20:42,661 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-10-16 20:20:42,662 DEBUG [TestNG-tests-1] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-10-16 20:20:42,665 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,666 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-10-16 20:20:42,666 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-10-16 20:20:42,666 DEBUG [TestNG-tests-1] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-10-16 20:20:42,669 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,669 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-10-16 20:20:42,670 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-10-16 20:20:42,670 DEBUG [TestNG-tests-1] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-10-16 20:20:42,672 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,673 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-10-16 20:20:42,673 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-10-16 20:20:42,673 DEBUG [TestNG-tests-1] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-10-16 20:20:42,677 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-10-16 20:20:42,677 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-10-16 20:20:42,678 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-10-16 20:20:42,678 DEBUG [TestNG-tests-1] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/Users/omererdogmus/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
